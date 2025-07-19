@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/dashboard/annotations/page": "/dashboard/annotations",
+  "/dashboard/customers/page": "/dashboard/customers",
+  "/dashboard/orders/page": "/dashboard/orders",
+  "/dashboard/menu/page": "/dashboard/menu",
+  "/dashboard/page": "/dashboard",
+  "/dashboard/sales/page": "/dashboard/sales",
+  "/dashboard/tabs/page": "/dashboard/tabs"
+}
