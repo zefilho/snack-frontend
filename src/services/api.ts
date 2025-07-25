@@ -2,7 +2,9 @@
 //const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 
   //(process.env.NODE_ENV === 'production' ? '/api' : 'http://backend:5000/api');
 
-const API_BASE_URL = 'https://ogh5izce7v7v.manus.space/api'
+//const API_BASE_URL = 'https://ogh5izce7v7v.manus.space/api'
+const API_BASE_URL = 'https://resgatame.kindstone-e3510d40.eastus2.azurecontainerapps.io/api'
+
 // Função auxiliar para fazer requisições
 async function apiRequest<T>(
   endpoint: string, 
